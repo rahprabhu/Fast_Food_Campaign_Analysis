@@ -65,7 +65,7 @@ Which yields the result below
 F_onewayResult(statistic=21.953485793080677, pvalue=6.765849261408714e-10)
 ```
 #### Analyzing the Results
-With a p-value that is much lower than an alpha value of 0.05 or 0.01, indicating that there is an statistically significant difference in the mean sales between the three promotions. However, which promotion's sales is causing the statistically significant difference in sales? We can use the **Tukey** test to tell us which differences and significant.
+With a p-value that is much lower than an alpha value of 0.05 or 0.01, indicating that there is an statistically significant difference in the mean sales between the three promotions. However, which promotion's sales is causing the statistically significant difference in sales? We can use the **Tukey** test to tell us which differences are significant.
 
 ## Post-Hoc Testing
 ```
